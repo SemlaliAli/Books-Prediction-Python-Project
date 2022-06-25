@@ -1,4 +1,11 @@
 # Books-Prediction-Python-Project
+
+Language used : Python with Jupyter notebook
+
+This project contains :   README file 
+                          Project report PDF
+                          .ipynb file that contains python code for the project
+
 For the DSTI Python Project, I will train a model that predicts a book’s rating using books.csv dataset. This Project includes exploratory analysis of the data, feature engineering and selection, model training and evaluation.
 
 1- Let's explore the data
